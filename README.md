@@ -1,4 +1,4 @@
-# Bouraima Mohammed Moudachir
+# BOURAIMA Mohammed Moudachir
 ### Développeur Fullstack · Laravel & React · Keycloak/SSO
 
 Basé à Abidjan 🇨🇮 · Disponible en remote
